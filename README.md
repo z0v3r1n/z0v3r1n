@@ -1,1 +1,1 @@
-playing ctfs with capablanca and learning alone xddd
+https://z0v3r1n.github.io
