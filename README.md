@@ -1,4 +1,5 @@
-- CVE-2026-63639 (valkey)
-- CVE-2026-71129 (virtualbox)
-- CVE-2026-83834 (windows)
-
+- CVE-2026-63639
+- CVE-2026-71129
+- CVE-2026-83834
+- CVE-2026-70054
+(many more to come!)
